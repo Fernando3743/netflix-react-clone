@@ -6,5 +6,7 @@
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "editor.dragAndDrop": false
 }
